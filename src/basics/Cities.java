@@ -4,7 +4,7 @@ public class Cities {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		String[] cities = {"New York", "San Francisco", "Miami", "Dallas"};
+		String[] cities = {"New York", "San Francisco", "Miami", "Dallas", "Boston"};
 		System.out.println(cities[0]);
 		
 		String[] states = new String[5];
