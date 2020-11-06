@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author geral
+ *
+ */
+module javatraining {
+}
